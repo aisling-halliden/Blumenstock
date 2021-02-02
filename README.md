@@ -1,3 +1,5 @@
-# Informal Responses
+# My Data 150 class
 
-Blumenstock Response
+## Informal Responses
+
+1. [Blumenstock Response](...)
