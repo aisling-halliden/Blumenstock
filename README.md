@@ -2,4 +2,4 @@
 
 ## Informal Responses
 
-1. [Blumenstock Response](https://aisling-halliden.github.io/Data150-Aisling/blumenstock.html)
+1. [Blumenstock Response](https://aisling-halliden.github.io/Data150-Aisling/response1.html)
