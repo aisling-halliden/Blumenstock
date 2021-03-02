@@ -8,4 +8,4 @@
 
 ## Formal Assignments
 
-3. [Annotated Bibliography] (https://aisling-halliden.github.io/Data150-Aisling/Annotated-Bibliography.html)
+3. [Annotated Bibliography](https://aisling-halliden.github.io/Data150-Aisling/AnnotatedBibliography.html)
