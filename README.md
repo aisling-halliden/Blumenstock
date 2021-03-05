@@ -1,4 +1,4 @@
-# My Data 150 class
+# My Data 150 Class
 
 ## Informal Responses
 
