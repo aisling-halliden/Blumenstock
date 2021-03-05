@@ -9,3 +9,5 @@
 ## Formal Assignments
 
 3. [Annotated Bibliography](https://aisling-halliden.github.io/Data150-Aisling/AnnotatedBibliography.html)
+
+4. [Literature Review](https://aisling-halliden.github.io/Data150-Aisling/LiteratureReview.html)
