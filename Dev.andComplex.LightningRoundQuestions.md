@@ -1,4 +1,4 @@
-# # Development and Complexity (Owen Barder) Lightning Round Questions
+# Development and Complexity (Owen Barder) Lightning Round Questions
 
 1.	He starts off by giving Amartya Sen’s definition of development as enlarging peoples choices capabilities and freedoms etc. He defines development as a property of the economic and social system itself. He defines it not as a series of individual successes but an emergent property of the complex system as a whole which expands people’s choices, capabilities, and freedoms. Development harnesses the strength of adaptation and self-organizing complexity to not only accelerate evolution, but also change it. It is a gradual process of firms becoming more productive. 
 
