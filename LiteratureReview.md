@@ -35,4 +35,3 @@ Works cited
 7.	Shepard, Donald S et al. “Economic and disease burden of dengue in Southeast Asia.” PLoS neglected tropical diseases vol. 7,2 (2013): e2055. doi:10.1371/journal.pntd.0002055
 8.	Bundy, Joshua D, and Jiang He. “Hypertension and Related Cardiovascular Disease Burden in China.” Annals of global health vol. 82,2 (2016): 227-33. doi:10.1016/j.aogh.2016.02.002
 9.	Dickson, Benjamin F R et al. “Lymphatic Filariasis in Mainland Southeast Asia: A Systematic Review and Meta-Analysis of Prevalence and Disease Burden.” Tropical medicine and infectious disease vol. 2,3 32. 27 Jul. 2017, doi:10.3390/tropicalmed2030032
-![image](https://user-images.githubusercontent.com/78175126/111927810-620aea80-8a88-11eb-936a-81b6151f183c.png)
