@@ -9,7 +9,9 @@ Human Development/Data Science
 21 March 2021
 
 
+
 Global Diseases as Impediments to Human Development
+
 
 
 Throughout my research of disease burden estimation and precision epidemiology globally and more specifically Asia, many identifications have been made about how this is inhibiting human development in the regions of focus. Health care is one of the major determinants of freedom– the most crucial foundation of development. Limited social and economic arrangements such as facilities for health care is a major source of unfreedom. In the following studies of disease burden estimation, the need for more extensive analysis of the impact this has globally is strongly emphasized. Over the past century, there have been considerable hindrances to freedom as development because of increased mortality, disease, and cancer rates. The overarching concern and focal point that every article addressed was what burden the varying diseases would have on populations. As I narrowed the scope of my investigation, Asia became a focus of interest in the context of a comparison to global studies of burden estimation. Several studies suggest that many of the developing and developed countries face extreme burden. A closer analysis of these studies and models will show evidence of this crucial human development problem so prevalent around the world at present. 
