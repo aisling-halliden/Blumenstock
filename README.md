@@ -6,7 +6,9 @@
 
 2. [Amartya Sen Intro + Chapter 1 Lightning Round Questions](https://aisling-halliden.github.io/Data150-Aisling/AmartyaSenIntro&Ch.1Answers.html)
 
-4. [Development and Complexity Lightning Round Questions](https://aisling-halliden.github.io/Data150-Aisling/Dev.andComplex.LightningRoundQuestions.html)
+3. [Development and Complexity Lightning Round Questions](https://aisling-halliden.github.io/Data150-Aisling/Dev.andComplex.LightningRoundQuestions.html)
+
+4. [Transfer Learning, Stacked Generalization, and Keras Leture] (
 
 ## Formal Assignments
 
