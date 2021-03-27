@@ -8,7 +8,7 @@
 
 3. [Development and Complexity Lightning Round Questions](https://aisling-halliden.github.io/Data150-Aisling/Dev.andComplex.LightningRoundQuestions.html)
 
-4. [Transfer Learning, Stacked Generalization, and Keras Leture] (
+4. [Transfer Learning, Stacked Generalization, and Keras Lecture](https://aisling-halliden.github.io/Data150-Aisling/SliceofDataScienceMarch23.html)
 
 ## Formal Assignments
 
