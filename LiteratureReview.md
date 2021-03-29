@@ -36,5 +36,3 @@ References
 8.	Bundy, Joshua D, and Jiang He. “Hypertension and Related Cardiovascular Disease Burden in China.” Annals of global health vol. 82,2 (2016): 227-33. doi:10.1016/j.aogh.2016.02.002
 9.	Dickson, Benjamin F R et al. “Lymphatic Filariasis in Mainland Southeast Asia: A Systematic Review and Meta-Analysis of Prevalence and Disease Burden.” Tropical medicine and infectious disease vol. 2,3 32. 27 Jul. 2017, doi:10.3390/tropicalmed2030032
 10.	Oidtman, Rachel J et al. “Inter-annual variation in seasonal dengue epidemics driven by multiple interacting factors in Guangzhou, China.” Nature communications vol. 10,1 1148. 8 Mar. 2019, doi:10.1038/s41467-019-09035-x
-![image](https://user-images.githubusercontent.com/78175126/112780057-04414a00-9016-11eb-80d9-d52dc7da84a6.png)
-
