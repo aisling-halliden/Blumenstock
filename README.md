@@ -10,7 +10,7 @@
 
 4. [Transfer Learning, Stacked Generalization, Keras Lecture](https://aisling-halliden.github.io/Data150-Aisling/SliceofDataScienceMarch23.html)
 
-5. [[Assignment 3 Intro + Problem Statement](https://aisling-halliden.github.io/Data150-Aisling/Assignment3Intro&ProblemStatement.html)
+5. [Assignment 3 Intro + Problem Statement](https://aisling-halliden.github.io/Data150-Aisling/Assignment3Intro&ProblemStatement.html)
 
 ## Formal Assignments
 
