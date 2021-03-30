@@ -1,1 +1,5 @@
+# Introduction & Problem Statement
 
+The effects of disease burden we see throughout the world and regions of focus in Asia are extreme. There is zero argument that the effects of disease are always negative, rather than positive. Despite this notion, people coming from lower socioeconomic statuses are more greatly burdened than wealthier individuals or communities. The harm is apparent, in that, there is limited access to healthcare for people in poorer communities. Not to mention, on a global scale, children are dying, people are losing working hours because they are sick, and thus are unable to live a life with freedom in which people have the ability to provide for their families.
+
+The inherent nature of the problem is related to government and their public policy that surrounds healthcare. However, it is a fact that people are getting sick and we are aiming to discover why this is and why certain populations of poorer individuals are disparagingly burdened. There is a great focus as of now, that focuses on the global issue, regardless of socioeconomic status, but there is an urgent need to 
