@@ -15,3 +15,5 @@
 1. [Annotated Bibliography](https://aisling-halliden.github.io/Data150-Aisling/AnnotatedBibliography.html)
 
 2. [Literature Review](https://aisling-halliden.github.io/Data150-Aisling/LiteratureReview.html)
+
+3. [Assignment 3 Intro + Problem Statement
