@@ -18,4 +18,4 @@
 
 2. [Literature Review](https://aisling-halliden.github.io/Data150-Aisling/LiteratureReview.html)
 
-3. [Assignment 3]((https://aisling-halliden.github.io/Data150-Aisling/Assignment3.html)
+3. [Assignment 3](https://aisling-halliden.github.io/Data150-Aisling/Assignment3.html)
